@@ -1,0 +1,22 @@
+JOHN DOE
+john@email.com
++977-9801234567
+
+SUMMARY
+Full Stack Developer with 4 years of experience building web applications using JavaScript, TypeScript, React, and Node.js.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Git, Docker, AWS, HTML, CSS
+
+WORK EXPERIENCE
+Senior Developer | Tech Solutions Pvt. Ltd. | 2022 - Present
+- Built scalable web apps with React and Node.js
+- Managed PostgreSQL databases and REST APIs
+- Implemented CI/CD pipelines with GitHub Actions
+
+Junior Developer | StartUp Inc. | 2020 - 2022
+- Developed frontend components using React
+- 2 years of professional experience in web development
+
+EDUCATION
+Bachelor of Computer Science | Tribhuvan University | 2016 - 2020
