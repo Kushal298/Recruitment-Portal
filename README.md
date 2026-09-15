@@ -1,6 +1,6 @@
 # Resume Analysis & Recruitment Portal
 
-A full-stack **Transparent Resume Analysis and Recruitment Portal** built per the BSc.CSIT project proposal. The system uses rule-based regex parsing and cosine similarity scoring — no black-box AI.
+A full-stack **Transparent Resume Analysis and Recruitment Portal** built per the BSc.CSIT project proposal. The system uses rule-based regex parsing and cosine similarity scoring - no black-box AI.
 
 ## Tech Stack
 
